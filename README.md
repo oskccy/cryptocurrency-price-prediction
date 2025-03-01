@@ -45,8 +45,8 @@ To get started with this project, you need to install the required packages. Fol
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/oskccy/cryptocurrency-val-prediction.git
-    cd cryptocurrency-val-prediction
+    git clone https://github.com/oskccy/cryptocurrency-price-prediction.git
+    cd cryptocurrency-price-prediction
     ```
 
 2. **Run the project**:
